@@ -60,7 +60,7 @@ The project is organized into two main directories:
    ```bash
    dotnet build
    ```
-3.Execute the program:
+3. Execute the program:
     ```bash
     dotnet run
-    ```bash
+    ```
